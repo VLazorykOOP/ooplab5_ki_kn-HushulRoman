@@ -1,0 +1,2 @@
+﻿  ЛБ№5 Завдання 2.cpp
+D:\Навчання\OOP\ЛБ№5 Завдання 2\ЛБ№5 Завдання 2.cpp(32,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
